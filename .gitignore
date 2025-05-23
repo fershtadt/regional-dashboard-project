@@ -1,8 +1,5 @@
 .ipynb_checkpoints/
 __pycache__/
 *.py[cod]
-*.csv
-*.xlsx
-*.png
 .DS_Store
 Thumbs.db
